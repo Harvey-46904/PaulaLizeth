@@ -48,7 +48,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#about">Nosotros</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
@@ -148,33 +148,43 @@
       <div class="container">
 
         <div class="row no-gutters">
+        
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center">
-              <h3>doctora paula</h3>
+              <h3>Paula Lizeth</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Hola! Mi nombre es Paula Lizeth, consteladora familiar y coaching de vida, aprendiz de técnicas ancestrales y medicinas indígenas de la selva, graduada de contabilidad y finanzas y técnica Auxiliar en enfermeria. 
+
+                Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
+              </p>
+              <h3>Que Son Las Constelaciones Familiares</h3>
+              <p>
+              Las constelaciones familiares son una técnica  para hacer conciencia y sanación, nos permitirá encontrar bienestar, armonía entre muchas más, a nivel físico, emocional y espiritual; ya que con la persona con la que más tiempo permanecemos es con nosotros mismos, él hacer conciencia de los patrones inconscientes y como sanarlos, nos llevará poco a poco a tener la vida que queremos.
+              </p>
+              <p>
+              Aquí están algunas cualidades que se consideran importantes para una consteladora familiar:
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box">
-                  <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                <i class='bx bx-leaf' style='color:#297e45'></i>
+                  <h4>Empatía:</h4>
+                  <p>La capacidad de comprender y sentir los sentimientos de los demás es esencial para poder conectarse con las personas y ayudarlas a comprender sus problemas emocionales.</p>
                 </div>
                 <div class="col-md-6 icon-box">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                <i class='bx bx-spa' style='color:#297e45' ></i>
+                  <h4>Comunicación clara:</h4>
+                  <p>La habilidad de comunicarse de manera clara y efectiva es crucial para guiar a las familias hacia una comprensión más profunda de sus conflictos.</p>
                 </div>
                 <div class="col-md-6 icon-box">
-                  <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                <i class='bx bx-bulb' style='color:#297e45' ></i>
+                  <h4>Creatividad:</h4>
+                  <p>La habilidad de pensar fuera de la caja y encontrar soluciones innovadoras a los conflictos familiares puede ser muy útil para ayudar a las familias a encontrar una solución satisfactoria</p>
                 </div>
                 <div class="col-md-6 icon-box">
-                  <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                <i class='bx bx-key ' style='color:#297e45'></i>
+                  <h4>Habilidades de escucha activa:</h4>
+                  <p>Escuchar atentamente a todas las partes involucradas y hacer preguntas claras y directas puede ayudar a las familias a llegar a una comprensión más profunda de sus conflictos.</p>
                 </div>
               </div>
             </div><!-- End .content-->
