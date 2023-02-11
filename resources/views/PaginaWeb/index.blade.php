@@ -47,12 +47,13 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
+          <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
+          <li><a class="nav-link scrollto" href="#about">¿Quién Soy?</a></li>
+          <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Portafolio</a></li>
+          <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
+
+<!-- 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -70,11 +71,12 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+ -->
+          <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
+          <li><a class="getstarted scrollto" href="#about">Escribeme</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav>
 
     </div>
   </header><!-- End Header -->
@@ -267,39 +269,62 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>¿Quién puede hacer  una terapia de constelaciones familiares?</h2>
+          <p>Personas que deseen sanar.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title"><a href="">Enfermedades</a></h4>
+            <p class="description">
+            Las emociones y los patrones repetitivos en la familia pueden tener 
+            un impacto en la salud física ya que se puede mejorar la salud en 
+            el dolor crónico, las enfermedades autoinmunitarias o los trastornos psicológicos. 
+            </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href="">Desarrollo personal</a></h4>
+            <p class="description">
+            Puede ayudar a las personas a desarrollar una mayor comprensión de sí mismas y 
+            de su lugar en el mundo. Al comprender las dinámicas detrás de las emociones y aprender a aceptarlas 
+            y perdonarse a sí mismo y a los demás, se puede mejorar la autoestima y la confianza en uno mismo.
+            </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <h4 class="title"><a href="">Traumas infantiles</a></h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
+            <h4 class="title"><a href="">Conflictos de pareja</a></h4>
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
+            <h4 class="title"><a href="">Problemas con los hijos</a></h4>
             <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+            <h4 class="title"><a href="">Adicciones</a></h4>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="bi bi-binoculars"></i></div>
+            <h4 class="title"><a href="">Trabajo</a></h4>
+            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="bi bi-brightness-high"></i></div>
+            <h4 class="title"><a href="">Problemas con la familia</a></h4>
+            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+            <h4 class="title"><a href="">Dinero</a></h4>
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           </div>
         </div>
@@ -312,8 +337,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Why Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Tambien puede sanar emociones </h2>
+          <p>Al traer a la consciencia la fuente de las emociones y permitir una exploración profunda, las constelaciones pueden ayudar a liberar emociones reprimidas y permitir una resolución emocional. Al comprender la dinámica detrás de las emociones y aprender a aceptarlas y perdonarse a sí mismo y a los demás, se puede reducir la intensidad y frecuencia de las emociones negativas.</p>
         </div>
 
         <div class="row">
@@ -321,24 +346,24 @@
           <div class="col-lg-4">
             <div class="box">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Abandono</h4>
+              <p>Al comprender la dinámica detrás del sentimiento de abandono y las emociones relacionadas, el participante puede aprender a aceptarlas y perdonarse a sí mismo y a los demás. Esto puede ayudar a reducir la intensidad y frecuencia del sentimiento de abandono.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Tristeza</h4>
+              <p> Al traer a la consciencia la fuente de la tristeza y permitir una exploración profunda, las constelaciones pueden ayudar a liberar emociones reprimidas y permitir una resolución emocional.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>03</span>
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              <h4>Ira</h4>
+              <p>A través de las constelaciones, se puede explorar la raíz de la ira y entender dónde proviene. Esto puede incluir patrones repetitivos en la familia o eventos traumáticos ocultos en el pasado.</p>
             </div>
           </div>
 
@@ -788,7 +813,7 @@
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
@@ -810,26 +835,17 @@
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Hipervinculos</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Inicio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">¿Quién Soy?</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Servicios</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos y Condiciones</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Politica de privacudad</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
+         
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
