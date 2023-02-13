@@ -73,7 +73,7 @@
           </li>
  -->
           <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
-          <li><a class="getstarted scrollto" href="#about">Escribeme</a></li>
+          <li><a class="getstarted scrollto" href="https://api.whatsapp.com/send?phone=34645558205&text=Hola%20mire%20tu%20pagina%20y%20me%20gustaria%20contactarme%20contigo%F0%9F%98%87">Escribeme</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -285,7 +285,7 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-briefcase"></i></div>
+            <div class="icon"><i class='bx bx-plus-medical'></i></div>
             <h4 class="title"><a href="">Enfermedades</a></h4>
             <p class="description">
             Las emociones y los patrones repetitivos en la familia pueden tener 
@@ -303,12 +303,12 @@
             </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-bar-chart"></i></div>
+            <div class="icon"><i class='bx bxs-face-mask'></i></div>
             <h4 class="title"><a href="">Traumas infantiles</a></h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-binoculars"></i></div>
+            <div class="icon"><i class='bx bx-group'></i></div>
             <h4 class="title"><a href="">Conflictos de pareja</a></h4>
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           </div>
@@ -323,7 +323,7 @@
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-binoculars"></i></div>
+            <div class="icon"><i class='bx bxs-briefcase'></i></div>
             <h4 class="title"><a href="">Trabajo</a></h4>
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           </div>
