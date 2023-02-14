@@ -41,7 +41,7 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Groovin</a></h1>
+      <h1 class="logo"><a href="index.html">CoTeFa</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -94,10 +94,10 @@
           <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-3.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Grow Your Business</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <h2 class="animate__animated animate__fadeInDown">Constelación Familiar</h2>
+                <p class="animate__animated animate__fadeInUp">Conoce Nuestras Terapias</p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">¿ Quien Soy ?</a>
                 </div>
               </div>
             </div>
@@ -107,10 +107,10 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <h2 class="animate__animated animate__fadeInDown">Constelación Familiar</h2>
+                <p class="animate__animated animate__fadeInUp">Terapias Grupales</p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#services" class="btn-get-started animate__animated animate__fadeInUp scrollto">Servicios</a>
                 </div>
               </div>
             </div>
@@ -120,10 +120,10 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <h2 class="animate__animated animate__fadeInDown">Constelación Familia</h2>
+                <p class="animate__animated animate__fadeInUp">sanación</p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#team" class="btn-get-started animate__animated animate__fadeInUp scrollto">Emociones</a>
                 </div>
               </div>
             </div>
@@ -305,37 +305,42 @@
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-face-mask'></i></div>
             <h4 class="title"><a href="">Traumas infantiles</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <p class="description">Los traumas infantiles son experiencias emocionales intensas y negativas que ocurren durante la infancia y pueden tener un impacto duradero en la vida del individuo. Estas experiencias pueden ser físicas, emocionales o psicológicas y pueden incluir abuso, negligencia, violencia, pérdida de un ser querido, hospitalización, enfermedad, separación de los padres, entre otros.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bx-group'></i></div>
             <h4 class="title"><a href="">Conflictos de pareja</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <p class="description">Los conflictos de pareja pueden surgir por diversas razones, como diferencias en la comunicación, expectativas no cumplidas, problemas financieros, diferencias culturales o de valores, infidelidad, celos, entre otros. Es normal que las parejas enfrenten conflictos de vez en cuando, ya que es parte natural de cualquier relación. Sin embargo, si estos conflictos no se resuelven de manera adecuada, pueden causar un daño significativo a la relación.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
             <h4 class="title"><a href="">Problemas con los hijos</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <p class="description">Los problemas con los hijos pueden ser una fuente importante de estrés y preocupación para los padres. Estos problemas pueden variar desde dificultades de comportamiento, problemas de rendimiento escolar, problemas emocionales y de salud mental, hasta problemas de adicción, trastornos alimentarios y otros problemas de salud física.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title"><a href="">Adicciones</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">Las adicciones pueden afectar tanto a nivel físico como emocional. En algunos casos, las adicciones pueden ser peligrosas para la salud, ya que pueden causar enfermedades, lesiones o incluso la muerte. Además, las adicciones también pueden causar problemas en las relaciones interpersonales, el trabajo, la escuela y la vida diaria en general.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-briefcase'></i></div>
             <h4 class="title"><a href="">Trabajo</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <p class="description">El objetivo de la terapia de constelaciones familiares para el trabajo es ayudar al cliente a identificar los patrones y dinámicas familiares que pueden estar afectando su vida laboral y encontrar maneras de superarlos. Al hacerlo, el cliente puede experimentar una mayor claridad y éxito en su carrera.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
             <h4 class="title"><a href="">Problemas con la familia</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <p class="description">El objetivo de la terapia de constelaciones familiares es identificar y liberar los patrones que pueden estar limitando a una persona o familia, y fomentar la curación y la reconciliación en las relaciones. La terapia de constelaciones familiares se ha utilizado para tratar una variedad de problemas, como relaciones familiares conflictivas, problemas de pareja, problemas de salud mental y emocionales, y traumas pasados.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title"><a href="">Dinero</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">Es importante tener en cuenta que la terapia de constelaciones familiares en el dinero no es una solución rápida a los problemas financieros. Sin embargo, al abordar las causas subyacentes de los problemas financieros, esta terapia puede ayudar a las personas a lograr una mayor comprensión y resolución de los patrones disfuncionales en su relación con el dinero.
+
+
+
+
+</p>
           </div>
         </div>
 
@@ -412,7 +417,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -426,7 +431,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -440,7 +445,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -454,7 +459,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -468,7 +473,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -482,7 +487,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                
                 </div>
               </div>
             </div>
@@ -496,7 +501,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                 
                 </div>
               </div>
             </div>
@@ -510,7 +515,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                 
                 </div>
               </div>
             </div>
@@ -524,7 +529,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  
                 </div>
               </div>
             </div>
@@ -611,125 +616,64 @@
       </div>
     </section><!-- End Team Section -->
 
-    <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box recommended">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Pricing Section -->
+   
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Preguntas Frecuentes</h2>
+          <p>Los Usuarios Preguntan :</p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">¿Cómo es una sesión individual de constelaciones? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                Durante la sesión, el terapeuta invitará al cliente a describir un problema, situación o relación específica que desea explorar. A continuación, el terapeuta puede pedir al cliente que elija personas, objetos o símbolos de la sala para representar a las personas o elementos clave relacionados con el problema. El cliente puede seleccionar a los representantes y colocarlos en el espacio de la sala según su percepción.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">¿Cuántas personas participan en la sesión grupal/taller? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                El número de personas que participan en una sesión grupal o taller de constelaciones familiares puede variar dependiendo del organizador y del espacio disponible. Por lo general, las sesiones grupales pueden tener entre 10 y 20 participantes, aunque algunas sesiones pueden tener un número mayor o menor de personas.
+
+Es importante tener en cuenta que en las sesiones de constelaciones familiares, el enfoque no está en el número de personas que participan, sino en el proceso de trabajo en sí mismo. La dinámica de grupo es una parte integral del proceso, y el facilitador de la constelación puede adaptar la dinámica del grupo y el trabajo a las necesidades y objetivos específicos de los participantes.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">¿Cuál es la diferencia entre una sesión individual y la sesión grupal / taller? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                En resumen, una sesión individual en constelación familiar se enfoca en el cliente individual, mientras que una sesión grupal o taller permite a los clientes trabajar en sus problemas en un entorno de grupo. Ambas opciones pueden ser efectivas para explorar y resolver problemas personales y dinámicas familiares.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">¿Debo participar con mi familia? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                No. Los demás miembros de tu familia no participan en la sesión; participas solo/a. 
+Haces la sesión con tu pareja si deseas trabajar un tema que involucra tus hijos menores de edad o si el tema a trabajar es el deseo de tener hijos
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">¿Alguien cercano a mí se encuentra en un mal momento, puedo constelar por él/ella? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                No. Cada persona adulta debe hacerse cargo de su tema/problema. No es posible resolver el problema para otra persona. Lo que podrías trabajar tú es lo que te pasa a ti con el problema de la otra persona. Por ejemplo: No puedes constelar la adicción de tu hermano. Si podrías constelar tu sufrimiento/problema que te produce la adicción de tu hermano.
+Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar los problemas/temas de los hijos menores de edad sin que estos hijos tienen que estar presentes. Por ejemplo: La enfermedad de un niño de 12 años puede ser constelados por sus padres.​
                 </p>
               </div>
             </li>
@@ -755,7 +699,7 @@
             <div class="contact-address">
               <i class="bi bi-geo-alt"></i>
               <h3>Direccion</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <address>Valencia España</address>
             </div>
           </div>
 
@@ -771,7 +715,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">paupau1721@gmail.com</a></p>
+              <p><a href="mailto:info@example.com">lizayahuasca3@gmail.com</a></p>
             </div>
           </div>
 
@@ -814,12 +758,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Groovin</h3>
+              <h3>CoTeFa</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Valencia <br>
+                España<br><br>
+                <strong>Telefono:</strong> +34 645 5582 05<br>
+                <strong>Email:</strong> lizayahuasca3@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
