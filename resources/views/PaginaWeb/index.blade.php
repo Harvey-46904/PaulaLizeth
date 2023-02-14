@@ -73,7 +73,7 @@
           </li>
  -->
           <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
-          <li><a class="getstarted scrollto" href="https://api.whatsapp.com/send?phone=34645558205&text=Hola%20mire%20tu%20pagina%20y%20me%20gustaria%20contactarme%20contigo%F0%9F%98%87">Escribeme</a></li>
+          <li><a class="getstarted scrollto" href="https://api.whatsapp.com/send?phone=34645558205&text=Hola%20mire%20tu%20pagina%20y%20me%20gustaria%20contactarme%20contigo%F0%9F%98%87">whatsapp</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -206,7 +206,7 @@
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <p><strong>Clientes Felices</strong></p>
             </div>
           </div>
 
@@ -214,7 +214,7 @@
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <p><strong>Proyectos</strong> </p>
             </div>
           </div>
 
@@ -222,15 +222,15 @@
             <div class="count-box">
               <i class="bi bi-headset"></i>
               <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <p><strong>Horas De Soporte</strong> </p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Trabajadores</strong> </p>
             </div>
           </div>
 
@@ -279,7 +279,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>¿Quién puede hacer  una terapia de constelaciones familiares?</h2>
+          <h2>¿Quién puede tomar  una terapia de constelaciones familiares?</h2>
           <p>Personas que deseen sanar.</p>
         </div>
 
@@ -816,6 +816,8 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
