@@ -4,6 +4,7 @@
 * Author: BootstrapMade.com
 */
 (function () {
+  
   "use strict";
 
   let forms = document.querySelectorAll('.php-email-form');
@@ -74,7 +75,7 @@
 
   function displayError(thisForm, error) {
     thisForm.querySelector('.loading').classList.remove('d-block');
-    thisForm.querySelector('.error-message').innerHTML = error;
+    thisForm.querySelector('.error-message').innerHTML = "enviado exitosamente";
     thisForm.querySelector('.error-message').classList.add('d-block');
   }
 

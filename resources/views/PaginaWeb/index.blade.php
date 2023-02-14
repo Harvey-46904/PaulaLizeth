@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Groovin Bootstrap Template - Index</title>
+  <title>Paula Lizeth</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -51,7 +51,7 @@
           <li><a class="nav-link scrollto" href="#about">¿Quién Soy?</a></li>
           <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portafolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Equipo</a></li>
+          <li><a class="nav-link scrollto" href="#team">Las Emociones</a></li>
 
 <!-- 
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -91,7 +91,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-3.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Grow Your Business</h2>
@@ -117,7 +117,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
@@ -342,7 +342,7 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Why Us Section ======= -->
+    <!-- ======= Why Us Section
     <section id="why-us" class="why-us">
       <div class="container">
 
@@ -380,8 +380,8 @@
         </div>
 
       </div>
-    </section><!-- End Why Us Section -->
-
+    </section>
+    ======= -->
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container">
@@ -540,8 +540,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Podemos sanar Emociones</h2>
+          <p>Al traer a la consciencia la fuente de las emociones y permitir una exploración profunda, las constelaciones pueden ayudar a liberar emociones reprimidas y permitir una resolución emocional. Al comprender la dinámica detrás de las emociones y aprender a aceptarlas y perdonarse a sí mismo y a los demás, se puede reducir la intensidad y frecuencia de las emociones negativas.</p>
         </div>
 
         <div class="row">
@@ -551,72 +551,60 @@
               <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
+                  <h4 class="pb-2 text-success">Abandono</h4>
+                  <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.1s">
+          <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member">
               <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
+                  <h4 class="pb-2 text-success">Ira</h4>
+                  <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
-          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.2s">
+          <div class="col-xl-3 col-lg-4 col-md-6">
             <div class="member">
               <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
+                  <h4 class="pb-2 text-success">Enojo</h4>
+                  <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="member">
+              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4 class="pb-2 text-success">Tristeza</h4>
+                  <span>Te puedo ayudar</span>
+                  <div class="social">
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        
 
         </div>
 
@@ -788,10 +776,11 @@
           </div>
 
         </div>
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form action="{{route('enviar_correo')}}" method="post" role="form" class="php-email-form">
+            @csrf
             <div class="row">
               <div class="col-md-6 form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Su Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                <input type="text" name="nombre" class="form-control" id="name" placeholder="Su Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
               </div>
               <div class="col-md-6 form-group mt-3 mt-md-0">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Su Email" data-rule="email" data-msg="Please enter a valid email">

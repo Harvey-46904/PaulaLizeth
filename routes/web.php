@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('PaginaWeb.index');
 });
+
+Route::post('/enviar_correo',"UsuariosController@store")->name("enviar_correo");
