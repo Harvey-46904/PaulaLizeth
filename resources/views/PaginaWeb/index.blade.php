@@ -392,17 +392,17 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>PORTAFOLIO</h2>
+          <p>Mi portafolio de servicios y mi galeria de todo mi recorrido desde terapias grupales y individuales hasta toda mi travesía para llegar ayudarte</p>
         </div>
 
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Todo</li>
+              <li data-filter=".filter-app">Terapia Grupal</li>
+              <li data-filter=".filter-card">Terapia Individual</li>
+              <li data-filter=".filter-web">Mi travesía</li>
             </ul>
           </div>
         </div>
