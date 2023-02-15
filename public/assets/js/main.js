@@ -78,12 +78,16 @@
    * Back to top button
    */
   let backtotop = select('.back-to-top')
+  let backtotopw = select('.back-to-top_wasap')
   if (backtotop) {
     const toggleBacktotop = () => {
       if (window.scrollY > 100) {
         backtotop.classList.add('active')
+        backtotopw.classList.add('active')
       } else {
         backtotop.classList.remove('active')
+
+        backtotopw.classList.remove('active')
       }
     }
     window.addEventListener('load', toggleBacktotop)
