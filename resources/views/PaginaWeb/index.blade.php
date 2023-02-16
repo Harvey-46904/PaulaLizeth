@@ -94,8 +94,15 @@
           <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-3.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Constelación Familiar</h2>
-                <p class="animate__animated animate__fadeInUp">Conoce Nuestras Terapias</p>
+              <h2 class="animate__animated animate__fadeInDown">Constelaciones Familiares</h2>
+              <div class="row pb-4 text-white justify-content-between">
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Individuales</div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Virtuales </div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Grupales</div>
+              </div>
+               
+                
+                <h1><p class="animate__animated animate__fadeInUp">Coach De Vida</p></h1>
                 <div>
                   <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">¿ Quien Soy ?</a>
                 </div>
@@ -107,8 +114,13 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Constelación Familiar</h2>
-                <p class="animate__animated animate__fadeInUp">Terapias Grupales</p>
+              <h2 class="animate__animated animate__fadeInDown">Constelaciones Familiares</h2>
+              <div class="row pb-4 text-white justify-content-between">
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Individuales</div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Virtuales </div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Grupales</div>
+              </div>
+                <h1><p class="animate__animated animate__fadeInUp">Coach De Vida</p></h1>
                 <div>
                   <a href="#services" class="btn-get-started animate__animated animate__fadeInUp scrollto">Servicios</a>
                 </div>
@@ -120,8 +132,13 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Constelación Familia</h2>
-                <p class="animate__animated animate__fadeInUp">sanación</p>
+                <h2 class="animate__animated animate__fadeInDown">Constelaciones Familiares</h2>
+                <div class="row pb-4 text-white justify-content-between">
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Individuales</div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Virtuales </div>
+                <div class="col-md-2 col-2 animate__animated animate__fadeInDown">Grupales</div>
+              </div>
+                <h1><p class="animate__animated animate__fadeInUp">Coach De Vida</p></h1>
                 <div>
                   <a href="#team" class="btn-get-started animate__animated animate__fadeInUp scrollto">Emociones</a>
                 </div>
@@ -286,7 +303,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bx-plus-medical'></i></div>
-            <h4 class="title"><a href="">Enfermedades</a></h4>
+            <h4 class="title">Enfermedades</h4>
             <p class="description">
             Las emociones y los patrones repetitivos en la familia pueden tener 
             un impacto en la salud física ya que se puede mejorar la salud en 
@@ -295,7 +312,7 @@
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Desarrollo personal</a></h4>
+            <h4 class="title">Desarrollo personal</h4>
             <p class="description">
             Puede ayudar a las personas a desarrollar una mayor comprensión de sí mismas y 
             de su lugar en el mundo. Al comprender las dinámicas detrás de las emociones y aprender a aceptarlas 
@@ -304,37 +321,37 @@
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-face-mask'></i></div>
-            <h4 class="title"><a href="">Traumas infantiles</a></h4>
+            <h4 class="title">Traumas infantiles</h4>
             <p class="description">Los traumas infantiles son experiencias emocionales intensas y negativas que ocurren durante la infancia y pueden tener un impacto duradero en la vida del individuo. Estas experiencias pueden ser físicas, emocionales o psicológicas y pueden incluir abuso, negligencia, violencia, pérdida de un ser querido, hospitalización, enfermedad, separación de los padres, entre otros.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bx-group'></i></div>
-            <h4 class="title"><a href="">Conflictos de pareja</a></h4>
+            <h4 class="title">Conflictos de pareja</h4>
             <p class="description">Los conflictos de pareja pueden surgir por diversas razones, como diferencias en la comunicación, expectativas no cumplidas, problemas financieros, diferencias culturales o de valores, infidelidad, celos, entre otros. Es normal que las parejas enfrenten conflictos de vez en cuando, ya que es parte natural de cualquier relación. Sin embargo, si estos conflictos no se resuelven de manera adecuada, pueden causar un daño significativo a la relación.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Problemas con los hijos</a></h4>
+            <h4 class="title">Problemas con los hijos</h4>
             <p class="description">Los problemas con los hijos pueden ser una fuente importante de estrés y preocupación para los padres. Estos problemas pueden variar desde dificultades de comportamiento, problemas de rendimiento escolar, problemas emocionales y de salud mental, hasta problemas de adicción, trastornos alimentarios y otros problemas de salud física.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Adicciones</a></h4>
+            <h4 class="title">Adicciones</h4>
             <p class="description">Las adicciones pueden afectar tanto a nivel físico como emocional. En algunos casos, las adicciones pueden ser peligrosas para la salud, ya que pueden causar enfermedades, lesiones o incluso la muerte. Además, las adicciones también pueden causar problemas en las relaciones interpersonales, el trabajo, la escuela y la vida diaria en general.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-briefcase'></i></div>
-            <h4 class="title"><a href="">Trabajo</a></h4>
+            <h4 class="title">Trabajo</h4>
             <p class="description">El objetivo de la terapia de constelaciones familiares para el trabajo es ayudar al cliente a identificar los patrones y dinámicas familiares que pueden estar afectando su vida laboral y encontrar maneras de superarlos. Al hacerlo, el cliente puede experimentar una mayor claridad y éxito en su carrera.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Problemas con la familia</a></h4>
+            <h4 class="title">Problemas con la familia</h4>
             <p class="description">El objetivo de la terapia de constelaciones familiares es identificar y liberar los patrones que pueden estar limitando a una persona o familia, y fomentar la curación y la reconciliación en las relaciones. La terapia de constelaciones familiares se ha utilizado para tratar una variedad de problemas, como relaciones familiares conflictivas, problemas de pareja, problemas de salud mental y emocionales, y traumas pasados.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Dinero</a></h4>
+            <h4 class="title">Dinero</h4>
             <p class="description">Es importante tener en cuenta que la terapia de constelaciones familiares en el dinero no es una solución rápida a los problemas financieros. Sin embargo, al abordar las causas subyacentes de los problemas financieros, esta terapia puede ayudar a las personas a lograr una mayor comprensión y resolución de los patrones disfuncionales en su relación con el dinero.
 
 
@@ -413,8 +430,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                   
@@ -427,8 +443,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   
@@ -441,8 +456,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                   
@@ -455,8 +469,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+               
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                   
@@ -469,8 +482,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                   
@@ -483,8 +495,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                 
@@ -497,8 +508,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                  
@@ -511,8 +521,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+               
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
                  
@@ -525,8 +534,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+               
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   
