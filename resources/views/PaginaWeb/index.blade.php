@@ -41,14 +41,14 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">CoTeFa</a></h1>
+      <h1 class="logo"><a href="index.html"><img src="assets/img/logo_p.png" class="img-fluid"></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
-          <li><a class="nav-link scrollto" href="#about">¿Quién Soy?</a></li>
+          <li><a class="nav-link scrollto" href="{{route('quien-soy')}}">¿Quién Soy?</a></li>
           <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portafolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Las Emociones</a></li>
