@@ -166,11 +166,11 @@
     <section id="about" class="about">
       <div class="container">
 
-        <div class="row no-gutters">
+        <div class="row no-gutters ">
         
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
-            <div class="content d-flex flex-column justify-content-center">
+            <div class="content d-flex flex-column justify-content-center px-4">
               <h3>Paula Lizeth</h3>
               <p>
                 Hola! Mi nombre es Paula Lizeth, consteladora familiar y coaching de vida, aprendiz de técnicas ancestrales y medicinas indígenas de la selva, graduada de contabilidad y finanzas y técnica Auxiliar en enfermeria. 
