@@ -233,7 +233,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>CoTeFa</h3>
+              <h3><img src="assets/img/logo_p.png" class="img-fluid"></a></h3>
               <p>
                 Valencia <br>
                 España<br><br>
