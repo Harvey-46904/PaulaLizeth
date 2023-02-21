@@ -171,12 +171,12 @@
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center px-4">
-              <h3>Paula Lizeth</h3>
-              <p>
+              <!--<h3>Paula Lizeth</h3>
+            <p>
                 Hola! Mi nombre es Paula Lizeth, consteladora familiar y coaching de vida, aprendiz de técnicas ancestrales y medicinas indígenas de la selva, graduada de contabilidad y finanzas y técnica Auxiliar en enfermeria. 
 
                 Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
-              </p>
+              </p>-->
               <h3>Que Son Las Constelaciones Familiares</h3>
               <p>
               Las constelaciones familiares son una técnica  para hacer conciencia y sanación, nos permitirá encontrar bienestar, armonía entre muchas más, a nivel físico, emocional y espiritual; ya que con la persona con la que más tiempo permanecemos es con nosotros mismos, él hacer conciencia de los patrones inconscientes y como sanarlos, nos llevará poco a poco a tener la vida que queremos.
@@ -624,63 +624,68 @@
       </div>
     </section><!-- End Team Section -->
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <section id="Precios" class="pricing">
       <div class="container">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Precios</h2>
+          <p>Terapias Segun Su Procedimiento.</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6">
             <div class="box">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3>Terapia Individal Virtual</h3>
+              <h4><sup>€</sup>20<span> / Euros</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Las Primeras 2 Seciones</li>
+                <li>Despues</li>
+                <h4><sup>€</sup>30<span> / Euros</span></h4>
+                <li>Cada Secion</li>
+               
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Comprar Ahora</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
             <div class="box recommended">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+            <h3>Terapia De Constelacion Personal individual</h3>
+              <h4><sup>€</sup>20<span> / Euros</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
+                <li>Las Primeras 2 Seciones</li>
+                <li>Despues</li>
+                <h4><sup>€</sup>30<span> / Euros</span></h4>
+                <li>Cada Secion</li>
+                
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Comprar Ahora</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+            <h3>Terapia De Constelaciones Grupales</h3>
+              <h4><sup>€</sup>40<span> / Euros</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Las Primeras 2 Seciones</li>
+                <li>Despues</li>
+                <h4><sup>€</sup>60<span> / Euros</span></h4>
+                <li>Personalizada</li>
+                <li>Nota: Solo se constelara a una persona por cada terapia grupal, Los acompañantes deberan
+                  participar de apoyo ala persona que va a constelar si asi lo desean y deberan pagar un aporte de
+                </li>
+                <h4><sup>€</sup>10<span> / Euros</span></h4>
+                <li>Por ser participe de esta terapia en donde en donde podran sanar tambien.</li>
+                
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Comprar Ahora</a>
               </div>
             </div>
           </div>
@@ -841,7 +846,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/lizescribe/?igshid=YmMyMTA2M2Y%3D" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>

@@ -96,7 +96,8 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3>Paula Lizeth</h3>
               <p>
-                Hola! Mi nombre es Paula Lizeth, consteladora familiar y coaching de vida, aprendiz de técnicas ancestrales y medicinas indígenas de la selva, graduada de contabilidad y finanzas y técnica Auxiliar en enfermeria. 
+                Hola! Mi nombre es Paula Lizeth perenguez, tengo 33 años me e formado en diferentes areas buscando que era lo que de verdad me apsiona, sabiendolo siempre en mi corazon, hasta que me forme como consteladora familiar y coaching de vida, los caminos de la vida me han llevado a donde mis queridos amigos y hermanos indigenas gente muy humilde y con mucho conocimiento, el cual me impresiono y decidi aprender un poco, por que este conociiento no tiene fin, con esto decidi crear una fundacion 
+                crear una fundacion para jovenes con problemas de adiccion y depresion, la cual me a dejado enseñanzas de vida; me he graduado de contadora publica y tecnica en enfermeria. 
 
                 Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
               </p>
@@ -243,7 +244,7 @@
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/lizescribe/?igshid=YmMyMTA2M2Y%3D" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
