@@ -168,7 +168,7 @@
 
         <div class="row no-gutters ">
         
-          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+          <div class="image1 col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center px-4">
               <!--<h3>Paula Lizeth</h3>
@@ -177,30 +177,30 @@
 
                 Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
               </p>-->
-              <h3>Que Son Las Constelaciones Familiares</h3>
+              <h3>¿Qué Son Las Constelaciones Familiares?</h3>
               <p>
               Las constelaciones familiares son una técnica  para hacer conciencia y sanación, nos permitirá encontrar bienestar, armonía entre muchas más, a nivel físico, emocional y espiritual; ya que con la persona con la que más tiempo permanecemos es con nosotros mismos, él hacer conciencia de los patrones inconscientes y como sanarlos, nos llevará poco a poco a tener la vida que queremos.
               </p>
               <p>
               Aquí están algunas cualidades que se consideran importantes para una consteladora familiar:
               </p>
-              <div class="row">
-                <div class="col-md-6 icon-box">
+              <div class="row justify-content-between">
+                <div class="col-md-6 icon-box border border-success rounded ">
                 <i class='bx bx-leaf' style='color:#297e45'></i>
                   <h4>Empatía:</h4>
                   <p>La capacidad de comprender y sentir los sentimientos de los demás es esencial para poder conectarse con las personas y ayudarlas a comprender sus problemas emocionales.</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-spa' style='color:#297e45' ></i>
                   <h4>Comunicación clara:</h4>
                   <p>La habilidad de comunicarse de manera clara y efectiva es crucial para guiar a las familias hacia una comprensión más profunda de sus conflictos.</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-bulb' style='color:#297e45' ></i>
                   <h4>Creatividad:</h4>
                   <p>La habilidad de pensar fuera de la caja y encontrar soluciones innovadoras a los conflictos familiares puede ser muy útil para ayudar a las familias a encontrar una solución satisfactoria</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-key ' style='color:#297e45'></i>
                   <h4>Habilidades de escucha activa:</h4>
                   <p>Escuchar atentamente a todas las partes involucradas y hacer preguntas claras y directas puede ayudar a las familias a llegar a una comprensión más profunda de sus conflictos.</p>
@@ -423,127 +423,11 @@
             </ul>
           </div>
         </div>
-
-        <div class="row portfolio-container">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-               
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                 
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-               
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                 
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-               
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-
+        <div class="row">
+            <img src="assets/img/portfolio/collage.jpg" class="img-fluid" alt="">
         </div>
+
+      
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -646,8 +530,9 @@
                
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Comprar Ahora</a>
+                <a  class="btn-buy" onclick="activarmodal(1)">Comprar Ahora</a>
               </div>
+             
             </div>
           </div>
 
@@ -663,7 +548,7 @@
                 
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Comprar Ahora</a>
+                <a  class="btn-buy" onclick="activarmodal(2)">Comprar Ahora</a>
               </div>
             </div>
           </div>
@@ -685,7 +570,7 @@
                 
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Comprar Ahora</a>
+                <a  class="btn-buy" onclick="activarmodal(3)">Comprar Ahora</a>
               </div>
             </div>
           </div>
@@ -693,6 +578,46 @@
         </div>
 
       </div>
+
+      <!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="exampleModalLabel"></h5>
+      
+      </div>
+      <div class="modal-body">
+      <form action="{{route('enviar_correo_paquete')}}" method="post" >
+        @csrf
+
+        <div class="form-group">
+    <label for="exampleFormControlInput1">Paquete</label>
+    <input type="text" class="form-control" id="paquete" placeholder="Su nombre" name="paquete" onkeydown="return false" >
+  </div>
+      <div class="form-group">
+    <label for="exampleFormControlInput1">Nombres</label>
+    <input type="text" class="form-control"  placeholder="Su nombre" name="nombre">
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Teléfono</label>
+    <input type="number" class="form-control"  placeholder="Su teléfono" name="telefono">
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Correo Electronico</label>
+    <input type="email" class="form-control"  placeholder="Su Correo Electronico" name="correo">
+  </div>
+  <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
+
+</form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="cerrarmodal()">Cerrar</button>
+        <button type="button" class="btn btn-primary" onclick="Mensaje_enviado()">Enviar</button>
+      </div>
+    </div>
+  </div>
+</div>
     </section><!-- End Pricing Section -->
    
 
@@ -828,6 +753,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
 
   </main><!-- End #main -->
 
+  
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
@@ -897,7 +823,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   <a href="https://api.whatsapp.com/send?phone=34645558205&text=Hola%20mire%20tu%20pagina%20y%20me%20gustaria%20contactarme%20contigo%F0%9F%98%87" class="back-to-top_wasap d-flex align-items-center justify-content-center"><i class='bx bxl-whatsapp'></i></a>
 
   
- 
+  <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -905,9 +831,11 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
-
+  <script src="assets/vendor/Swal/sweetalert.min.js"></script>
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/myscript.js"></script>
+  
 
 </body>
 

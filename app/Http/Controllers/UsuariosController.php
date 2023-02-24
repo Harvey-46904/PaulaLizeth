@@ -90,6 +90,19 @@ class UsuariosController extends Controller
         //
     }
 
+    public function enviar_paquete( Request $request){
+        
+        $nuevadata=array(
+            "nombre"=>$request->nombre,
+            "email"=>$request->correo,
+            "subject"=>"Quiero el paquete de ".$request->paquete,
+            "message"=>"Puedes comunicarte conmigo al siguiente numero: ".$request->telefono,
+        );
+        $correos=array("harveympv@hotmail.com");
+       Mail::to($correos)->send( new EnviarCorreo($nuevadata));
+        return response(["data"=>"correo enviado con exito"],200);
+       
+    }
 
     
 }
