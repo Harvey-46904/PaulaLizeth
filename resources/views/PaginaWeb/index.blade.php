@@ -597,23 +597,22 @@
   </div>
       <div class="form-group">
     <label for="exampleFormControlInput1">Nombres</label>
-    <input type="text" class="form-control"  placeholder="Su nombre" name="nombre">
+    <input type="text" class="form-control"  placeholder="Digite sus nombres" name="nombre">
   </div>
   <div class="form-group">
     <label for="exampleFormControlInput1">Teléfono</label>
-    <input type="number" class="form-control"  placeholder="Su teléfono" name="telefono">
+    <input type="number" class="form-control"  placeholder="Digite su teléfono" name="telefono">
   </div>
   <div class="form-group">
     <label for="exampleFormControlInput1">Correo Electronico</label>
-    <input type="email" class="form-control"  placeholder="Su Correo Electronico" name="correo">
+    <input type="email" class="form-control"  placeholder="Digite su correo electronico" name="correo">
   </div>
-  <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
-
+  
 </form>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="cerrarmodal()">Cerrar</button>
-        <button type="button" class="btn btn-primary" onclick="Mensaje_enviado()">Enviar</button>
+        <button type="button" class="btn btn-success" onclick="Mensaje_enviado()">Enviar</button>
       </div>
     </div>
   </div>
