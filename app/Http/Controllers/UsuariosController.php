@@ -38,7 +38,7 @@ class UsuariosController extends Controller
     {
         
       
-        $correos=array("harveympv@hotmail.com");
+        $correos=array("lizayahuasca3@gmail.com");
         Mail::to($correos)->send( new EnviarCorreo($request->all()));
 
         return response(["data"=>"correo enviado exitosamente"]);
@@ -98,7 +98,7 @@ class UsuariosController extends Controller
             "subject"=>"Quiero el paquete de ".$request->paquete,
             "message"=>"Puedes comunicarte conmigo al siguiente numero: ".$request->telefono,
         );
-        $correos=array("harveympv@hotmail.com");
+        $correos=array("lizayahuasca3@gmail.com","mike_dm.s@hotmail.com");
        Mail::to($correos)->send( new EnviarCorreo($nuevadata));
         return response(["data"=>"correo enviado con exito"],200);
        
