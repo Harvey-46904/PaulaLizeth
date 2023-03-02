@@ -93,7 +93,7 @@
         
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
-            <div class="content d-flex flex-column justify-content-center">
+            <div class="content d-flex flex-column justify-content-center px-4">
               <h3>Paula Lizeth</h3>
               <p>
                 Hola! Mi nombre es Paula Lizeth perenguez, tengo 33 años me e formado en diferentes areas buscando que era lo que de verdad me apsiona, sabiendolo siempre en mi corazon, hasta que me forme como consteladora familiar y coaching de vida, los caminos de la vida me han llevado a donde mis queridos amigos y hermanos indigenas gente muy humilde y con mucho conocimiento, el cual me impresiono y decidi aprender un poco, por que este conociiento no tiene fin, con esto decidi crear una fundacion 
@@ -141,40 +141,27 @@
     <section id="counts" class="counts">
       <div class="container">
 
-        <div class="row no-gutters">
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Clientes Felices</strong></p>
-            </div>
+        <div class="row no-gutters ">
+          <div class="col-md-3 col-3 text-center">
+            <div class="row icos"> <i class="bi bi-emoji-smile"></i></div>
+            <div class="row"> <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span></div>
+            <div class="row"><p><strong>Clientes Felices</strong></p></div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Proyectos</strong> </p>
-            </div>
+          <div class="col-md-3 col-3 text-center">
+            <div class="row icos">   <i class="bi bi-journal-richtext"></i></div>
+            <div class="row"> <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span></div>
+            <div class="row">  <p><strong>Proyectos</strong> </p></div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Horas De Soporte</strong> </p>
-            </div>
+          <div class="col-md-3 col-3 text-center">
+            <div class="row icos">  <i class="bi bi-headset"></i></div>
+            <div class="row">    <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span></div>
+            <div class="row"><p><strong>Horas De Soporte</strong> </p></div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
-            <div class="count-box">
-              <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Trabajadores</strong> </p>
-            </div>
+          <div class="col-md-3 col-3 text-center">
+            <div class="row icos">   <i class="bi bi-people"></i></div>
+            <div class="row"> <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span></div>
+            <div class="row"> <p><strong>Equipo</strong> </p></div>
           </div>
-
         </div>
 
       </div>
