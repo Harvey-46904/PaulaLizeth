@@ -23,6 +23,9 @@ function cerrarmodal(){
 
 function Mensaje_enviado(){
 
+
+
+
     var data={
         _token: $("[name='_token']").val(),
         nombre: $("[name='nombre']").val(),
@@ -30,25 +33,30 @@ function Mensaje_enviado(){
         paquete: $("[name='paquete']").val(),
         telefono: $("[name='telefono']").val()
     }
+
+
+    if(data.correo =="" || data.nombre =="" || data.paquete =="" || data.telefono ==""){
+        swal("Error para enviar correo", "Debes Rellenar Los Campos", "error");
+    }else{
+        $.ajax({
+            type: "POST",
+            url: "enviar_correo_paquete",
+            data: data,
+            
+            success: function (response) {
+               
+                if(response.data==="correo enviado con exito"){
+                    cerrarmodal();
+                    swal("Enviamos tu correo!", "Muy pronto nos pondremos en contacto contigo", "success");
+                }
+              },
+              error: function () {
+                alert("error");
+              },
     
-    $.ajax({
-        type: "POST",
-        url: "enviar_correo_paquete",
-        data: data,
-        
-        success: function (response) {
-           
-            if(response.data==="correo enviado con exito"){
-                cerrarmodal();
-                swal("Enviamos tu correo!", "Muy pronto nos pondremos en contacto contigo", "success");
-            }
-          },
-          error: function () {
-            alert("error");
-          },
-
-        dataType: "json"
-
-      });
-
+            dataType: "json"
+    
+          });
+    }
+  
 }
