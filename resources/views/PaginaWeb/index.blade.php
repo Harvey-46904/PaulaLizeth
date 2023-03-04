@@ -36,7 +36,8 @@
 </head>
 
 <body>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="X48ZafRR"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="2orvucCN"></script>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
@@ -672,7 +673,12 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
 
       </div>
     </section><!-- End Frequently Asked Questions Section -->
-
+    <section id="comentario">
+    <div class="container section-title pt-5">
+    <h2>Comentarios</h2>
+    <div class="fb-comments" data-href="https://constelarsana.com/#comentario" data-width="100%" data-numposts="3"></div>
+    </div>
+    </section>
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
@@ -736,9 +742,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
 
       </div>
     </section><!-- End Contact Section -->
-    <div class="container">
-    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
-    </div>
+   
   </main><!-- End #main -->
 
   

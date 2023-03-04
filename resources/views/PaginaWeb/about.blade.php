@@ -36,7 +36,8 @@
 </head>
 
 <body>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="X48ZafRR"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="2orvucCN"></script>
 <div id="fb-root"></div>
 
 
@@ -207,9 +208,12 @@
 
 
 
-    <div class="container">
-    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
+    <section id="comentario">
+    <div class="container section-title pt-5">
+    <h2>Comentarios</h2>
+    <div class="fb-comments" data-href="https://constelarsana.com/#comentario" data-width="100%" data-numposts="3"></div>
     </div>
+    </section>
 
     <!-- ======= Frequently Asked Questions Section ======= -->
   
