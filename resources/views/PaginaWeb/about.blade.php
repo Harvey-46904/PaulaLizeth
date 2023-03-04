@@ -36,6 +36,7 @@
 </head>
 
 <body>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="X48ZafRR"></script>
 <div id="fb-root"></div>
 
 
@@ -206,7 +207,9 @@
 
 
 
+    <div class="container">
     <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
+    </div>
 
     <!-- ======= Frequently Asked Questions Section ======= -->
   

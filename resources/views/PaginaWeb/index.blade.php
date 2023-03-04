@@ -36,7 +36,7 @@
 </head>
 
 <body>
-
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="X48ZafRR"></script>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
@@ -736,7 +736,9 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
 
       </div>
     </section><!-- End Contact Section -->
-
+    <div class="container">
+    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
+    </div>
   </main><!-- End #main -->
 
   
