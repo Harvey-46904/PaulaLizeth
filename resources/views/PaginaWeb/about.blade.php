@@ -36,6 +36,8 @@
 </head>
 
 <body>
+<div id="fb-root"></div>
+
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
@@ -217,8 +219,7 @@
 
 
 
-
-
+    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
 
     <!-- ======= Frequently Asked Questions Section ======= -->
   
@@ -290,7 +291,7 @@
       </div>
     </div>
   </footer><!-- End Footer -->
-
+  
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
   <a href="https://api.whatsapp.com/send?phone=34645558205&text=Hola%20mire%20tu%20pagina%20y%20me%20gustaria%20contactarme%20contigo%F0%9F%98%87" class="back-to-top_wasap d-flex align-items-center justify-content-center"><i class='bx bxl-whatsapp'></i></a>
 
