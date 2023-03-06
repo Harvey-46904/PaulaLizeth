@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Paula Lizeth</title>
+  <title>Constelarsana</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -37,7 +37,8 @@
 
 <body>
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="2orvucCN"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
@@ -676,7 +677,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
     <section id="comentario">
     <div class="container section-title pt-5">
     <h2>Comentarios</h2>
-    <div class="fb-comments" data-href="https://constelarsana.com/#comentario" data-width="100%" data-numposts="3"></div>
+    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
     </div>
     </section>
     <!-- ======= Contact Section ======= -->
