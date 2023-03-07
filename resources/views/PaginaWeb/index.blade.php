@@ -37,8 +37,8 @@
 
 <body>
 <div id="fb-root"></div>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
+
+
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
@@ -711,7 +711,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">lizayahuasca3@gmail.com</a></p>
+              <p><a href="mailto:lizayahuasca3@gmail.com">lizayahuasca3@gmail.com</a></p>
             </div>
           </div>
 
@@ -828,8 +828,18 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script src="assets/js/myscript.js"></script>
-  
-
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
+  <script>
+    $(document).ready(function () {
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/he_IL/sdk.js#xfbml=1&version=v16.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    });
+</script>
 </body>
 
 </html>
