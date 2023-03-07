@@ -22,3 +22,4 @@ Route::get('/quien-soy', function () {
 
 Route::post('/enviar_correo',"UsuariosController@store")->name("enviar_correo");
 Route::post('/enviar_correo_paquete',"UsuariosController@enviar_paquete")->name("enviar_correo_paquete");
+Route::post('/comentario',"ComentsController@store")->name("enviar_comentario");

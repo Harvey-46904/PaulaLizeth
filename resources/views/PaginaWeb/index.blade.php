@@ -677,7 +677,22 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
     <section id="comentario">
     <div class="container section-title pt-5">
     <h2>Comentarios</h2>
-    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
+
+    <div class="row justify-content-center">
+    
+        <div class="col-md-6">
+          @csrf
+          <textarea id="comentario" aria-label="Añadir un comentario" class="_1cb _1u9t" placeholder="Añade un comentario..." style="width:100%" name="comentario"></textarea>
+        </div>
+        <div class="col-md-2 align-item-center">
+        <button type="submit" class="btn btn-primary" onclick="agregar_comentario()">Publicar</button>
+        </div>
+    </div>
+      <div class="row">
+        <div class="col-md-12">
+              <div id="gplus-cm"></div>
+        </div>
+      </div>
     </div>
     </section>
     <!-- ======= Contact Section ======= -->
@@ -829,7 +844,6 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   <script src="assets/js/main.js"></script>
   <script src="assets/js/myscript.js"></script>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
-
 </body>
 
 </html>

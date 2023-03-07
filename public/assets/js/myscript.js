@@ -61,4 +61,33 @@ function Mensaje_enviado(){
   
 }
 
+function agregar_comentario(){
+    var message = $('textarea#comentario').val();
+
+    var data={
+        _token: $("[name='_token']").val(),
+        nombre: "harvey",
+        comentario:message,
+        ip:"10051512121"
+    }
+
+$.ajax({
+    type: "POST",
+    url: "comentario",
+    data: data,
+    success: function (response) {
+        
+        if(response.data==="comentario agregado"){
+            alert("publicar comentario");
+        }
+
+        
+      },
+      error: function () {
+        alert("error");
+      },
+    dataType: "json"
+  });
+}
+
 
