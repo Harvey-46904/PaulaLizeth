@@ -678,19 +678,10 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
     <div class="container section-title pt-5">
     <h2>Comentarios</h2>
 
-    <div class="row justify-content-center">
     
-        <div class="col-md-6">
-          @csrf
-          <textarea id="comentario" aria-label="Añadir un comentario" class="_1cb _1u9t" placeholder="Añade un comentario..." style="width:100%" name="comentario"></textarea>
-        </div>
-        <div class="col-md-2 align-item-center">
-        <button type="submit" class="btn btn-primary" onclick="agregar_comentario()">Publicar</button>
-        </div>
-    </div>
-      <div class="row">
-        <div class="col-md-12">
-              <div id="gplus-cm"></div>
+      <div class="row justify-content-center" >
+        <div class="col-md-10">
+        <div class="powr-comments" id="90ee4abe_1678203268"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
         </div>
       </div>
     </div>
