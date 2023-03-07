@@ -829,17 +829,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
   <script src="assets/js/main.js"></script>
   <script src="assets/js/myscript.js"></script>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
-  <script>
-    $(document).ready(function () {
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/he_IL/sdk.js#xfbml=1&version=v16.0";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    });
-</script>
+
 </body>
 
 </html>
