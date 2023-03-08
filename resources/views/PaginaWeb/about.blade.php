@@ -36,9 +36,6 @@
 </head>
 
 <body>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0" nonce="3iaqzNXy"></script>
-<div id="fb-root"></div>
 
 
   <!-- ======= Header ======= -->
@@ -99,36 +96,35 @@
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center px-4">
               <h3>Paula Lizeth</h3>
-              <p>
-                Hola! Mi nombre es Paula Lizeth perenguez, tengo 33 años me e formado en diferentes areas buscando que era lo que de verdad me apsiona, sabiendolo siempre en mi corazon, hasta que me forme como consteladora familiar y coaching de vida, los caminos de la vida me han llevado a donde mis queridos amigos y hermanos indigenas gente muy humilde y con mucho conocimiento, el cual me impresiono y decidi aprender un poco, por que este conociiento no tiene fin, con esto decidi crear una fundacion 
-                crear una fundacion para jovenes con problemas de adiccion y depresion, la cual me a dejado enseñanzas de vida; me he graduado de contadora publica y tecnica en enfermeria. 
-
-                Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
+              <p class="text-justify">
+              Hola! Mi nombre es Paula Lizeth perenguez, tengo 33 años me he formado 
+              en diferentes áreas buscando que era lo que de verdad me apasiona, sabiéndolo siempre en mi corazón, hasta que me forme como consteladora familiar y coaching de vida, los caminos de la vida me han llevado a donde mis queridos amigos y hermanos indígenas gente muy humilde y con mucho conocimiento, el cual me impresiono y decidí aprender un poco, porque este conocimiento no tiene fin, con esto decidí crear una fundación para jóvenes con problemas de adicción y depresión, la cual me ha dejado enseñanza de vida; me he graduado de contadora pública y técnica en enfermería. Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es el momento de sanar, liberando bloqueos que no solo hemos 
+              creado nosotros; sino que pueden venir desde nuestros ancestros que llevamos como herencias o como lealtades invisibles.
               </p>
               <h3>Que Son Las Constelaciones Familiares</h3>
-              <p>
+              <p class="text-justify">
               Las constelaciones familiares son una técnica  para hacer conciencia y sanación, nos permitirá encontrar bienestar, armonía entre muchas más, a nivel físico, emocional y espiritual; ya que con la persona con la que más tiempo permanecemos es con nosotros mismos, él hacer conciencia de los patrones inconscientes y como sanarlos, nos llevará poco a poco a tener la vida que queremos.
               </p>
-              <p>
+              <p class="text-justify">
               Aquí están algunas cualidades que se consideran importantes para una consteladora familiar:
               </p>
-              <div class="row">
-                <div class="col-md-6 icon-box">
+              <div class="row justify-content-between">
+              <div class="col-md-6 icon-box border border-success rounded ">
                 <i class='bx bx-leaf' style='color:#297e45'></i>
                   <h4>Empatía:</h4>
                   <p>La capacidad de comprender y sentir los sentimientos de los demás es esencial para poder conectarse con las personas y ayudarlas a comprender sus problemas emocionales.</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-spa' style='color:#297e45' ></i>
                   <h4>Comunicación clara:</h4>
                   <p>La habilidad de comunicarse de manera clara y efectiva es crucial para guiar a las familias hacia una comprensión más profunda de sus conflictos.</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-bulb' style='color:#297e45' ></i>
                   <h4>Creatividad:</h4>
                   <p>La habilidad de pensar fuera de la caja y encontrar soluciones innovadoras a los conflictos familiares puede ser muy útil para ayudar a las familias a encontrar una solución satisfactoria</p>
                 </div>
-                <div class="col-md-6 icon-box">
+                <div class="col-md-6 icon-box  border border-success rounded">
                 <i class='bx bx-key ' style='color:#297e45'></i>
                   <h4>Habilidades de escucha activa:</h4>
                   <p>Escuchar atentamente a todas las partes involucradas y hacer preguntas claras y directas puede ayudar a las familias a llegar a una comprensión más profunda de sus conflictos.</p>
@@ -211,7 +207,34 @@
     <section id="comentario">
     <div class="container section-title pt-5">
     <h2>Comentarios</h2>
-    <div class="fb-comments" data-href="https://constelarsana.com/" data-width="100%" data-numposts="3"></div>
+    <div class="row justify-content-center" >
+    <div class="col-md-10">
+        <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://paulacomentario.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+    </div>
+      <!-- ======= <div class="row justify-content-center" >
+        <div class="col-md-10">
+        <div class="powr-comments" id="90ee4abe_1678203268"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+        </div>
+      </div>======= -->
     </div>
     </section>
 

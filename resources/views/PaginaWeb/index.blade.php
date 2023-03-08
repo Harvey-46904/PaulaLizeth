@@ -180,10 +180,10 @@
                 Como consteladora familiar y coach de vida, quiero acompañarte en el fascinante camino del autodescubrimiento; haciendo conciencia de que si no nos sentimos agusto con la vida que llevamos, y no fluimos como queremos, es él momento de sanar, liberando bloqueos que no solo hemos creado nosotros; si no que pueden venir desde nuestros ancestros que llevamos como herencias o  como  lealtades invisibles.
               </p>-->
               <h3>¿Qué Son Las Constelaciones Familiares?</h3>
-              <p>
+              <p class="text-justify">
               Las constelaciones familiares son una técnica  para hacer conciencia y sanación, nos permitirá encontrar bienestar, armonía entre muchas más, a nivel físico, emocional y espiritual; ya que con la persona con la que más tiempo permanecemos es con nosotros mismos, él hacer conciencia de los patrones inconscientes y como sanarlos, nos llevará poco a poco a tener la vida que queremos.
               </p>
-              <p>
+              <p class="text-justify">
               Aquí están algunas cualidades que se consideran importantes para una consteladora familiar:
               </p>
               <div class="row justify-content-between">
@@ -293,16 +293,16 @@
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bx-plus-medical'></i></div>
             <h4 class="title">Enfermedades</h4>
-            <p class="description">
-            Las emociones y los patrones repetitivos en la familia pueden tener 
-            un impacto en la salud física ya que se puede mejorar la salud en 
-            el dolor crónico, las enfermedades autoinmunitarias o los trastornos psicológicos. 
+            <p class="description text-justify">
+            Las emociones y los patrones repetitivos en la familia pueden tener
+             un impacto en la salud física, ya que se puede mejorar la salud en el dolor crónico,
+             las enfermedades autoinmunitarias o los trastornos psicológicos. 
             </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
             <h4 class="title">Desarrollo personal</h4>
-            <p class="description">
+            <p class="description text-justify">
             Puede ayudar a las personas a desarrollar una mayor comprensión de sí mismas y 
             de su lugar en el mundo. Al comprender las dinámicas detrás de las emociones y aprender a aceptarlas 
             y perdonarse a sí mismo y a los demás, se puede mejorar la autoestima y la confianza en uno mismo.
@@ -311,37 +311,37 @@
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-face-mask'></i></div>
             <h4 class="title">Traumas infantiles</h4>
-            <p class="description">Los traumas infantiles son experiencias emocionales intensas y negativas que ocurren durante la infancia y pueden tener un impacto duradero en la vida del individuo. Estas experiencias pueden ser físicas, emocionales o psicológicas y pueden incluir abuso, negligencia, violencia, pérdida de un ser querido, hospitalización, enfermedad, separación de los padres, entre otros.</p>
+            <p class="description text-justify">Los traumas infantiles son experiencias emocionales intensas y negativas que ocurren durante la infancia y pueden tener un impacto duradero en la vida del individuo. Estas experiencias pueden ser físicas, emocionales o psicológicas y pueden incluir abuso, negligencia, violencia, pérdida de un ser querido, hospitalización, enfermedad, separación de los padres, entre otros.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bx-group'></i></div>
             <h4 class="title">Conflictos de pareja</h4>
-            <p class="description">Los conflictos de pareja pueden surgir por diversas razones, como diferencias en la comunicación, expectativas no cumplidas, problemas financieros, diferencias culturales o de valores, infidelidad, celos, entre otros. Es normal que las parejas enfrenten conflictos de vez en cuando, ya que es parte natural de cualquier relación. Sin embargo, si estos conflictos no se resuelven de manera adecuada, pueden causar un daño significativo a la relación.</p>
+            <p class="description text-justify">Los conflictos de pareja pueden surgir por diversas razones, como diferencias en la comunicación, expectativas no cumplidas, problemas financieros, diferencias culturales o de valores, infidelidad, celos, entre otros. Es normal que las parejas enfrenten conflictos de vez en cuando, ya que es parte natural de cualquier relación. Sin embargo, si estos conflictos no se resuelven de manera adecuada, pueden causar un daño significativo a la relación.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
             <h4 class="title">Problemas con los hijos</h4>
-            <p class="description">Los problemas con los hijos pueden ser una fuente importante de estrés y preocupación para los padres. Estos problemas pueden variar desde dificultades de comportamiento, problemas de rendimiento escolar, problemas emocionales y de salud mental, hasta problemas de adicción, trastornos alimentarios y otros problemas de salud física.</p>
+            <p class="description text-justify">Los problemas con los hijos pueden ser una fuente importante de estrés y preocupación para los padres. Estos problemas pueden variar desde dificultades de comportamiento, problemas de rendimiento escolar, problemas emocionales y de salud mental, hasta problemas de adicción, trastornos alimentarios y otros problemas de salud física.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title">Adicciones</h4>
-            <p class="description">Las adicciones pueden afectar tanto a nivel físico como emocional. En algunos casos, las adicciones pueden ser peligrosas para la salud, ya que pueden causar enfermedades, lesiones o incluso la muerte. Además, las adicciones también pueden causar problemas en las relaciones interpersonales, el trabajo, la escuela y la vida diaria en general.</p>
+            <p class="description text-justify">Las adicciones pueden afectar tanto a nivel físico como emocional. En algunos casos, las adicciones pueden ser peligrosas para la salud, ya que pueden causar enfermedades, lesiones o incluso la muerte. Además, las adicciones también pueden causar problemas en las relaciones interpersonales, el trabajo, la escuela y la vida diaria en general.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class='bx bxs-briefcase'></i></div>
             <h4 class="title">Trabajo</h4>
-            <p class="description">El objetivo de la terapia de constelaciones familiares para el trabajo es ayudar al cliente a identificar los patrones y dinámicas familiares que pueden estar afectando su vida laboral y encontrar maneras de superarlos. Al hacerlo, el cliente puede experimentar una mayor claridad y éxito en su carrera.</p>
+            <p class="description text-justify">El objetivo de la terapia de constelaciones familiares para el trabajo es ayudar al cliente a identificar los patrones y dinámicas familiares que pueden estar afectando su vida laboral y encontrar maneras de superarlos. Al hacerlo, el cliente puede experimentar una mayor claridad y éxito en su carrera.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
             <h4 class="title">Problemas con la familia</h4>
-            <p class="description">El objetivo de la terapia de constelaciones familiares es identificar y liberar los patrones que pueden estar limitando a una persona o familia, y fomentar la curación y la reconciliación en las relaciones. La terapia de constelaciones familiares se ha utilizado para tratar una variedad de problemas, como relaciones familiares conflictivas, problemas de pareja, problemas de salud mental y emocionales, y traumas pasados.</p>
+            <p class="description text-justify">El objetivo de la terapia de constelaciones familiares es identificar y liberar los patrones que pueden estar limitando a una persona o familia, y fomentar la curación y la reconciliación en las relaciones. La terapia de constelaciones familiares se ha utilizado para tratar una variedad de problemas, como relaciones familiares conflictivas, problemas de pareja, problemas de salud mental y emocionales, y traumas pasados.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title">Dinero</h4>
-            <p class="description">Es importante tener en cuenta que la terapia de constelaciones familiares en el dinero no es una solución rápida a los problemas financieros. Sin embargo, al abordar las causas subyacentes de los problemas financieros, esta terapia puede ayudar a las personas a lograr una mayor comprensión y resolución de los patrones disfuncionales en su relación con el dinero.
+            <p class="description text-justify">Es importante tener en cuenta que la terapia de constelaciones familiares en el dinero no es una solución rápida a los problemas financieros. Sin embargo, al abordar las causas subyacentes de los problemas financieros, esta terapia puede ayudar a las personas a lograr una mayor comprensión y resolución de los patrones disfuncionales en su relación con el dinero.
 
 
 
@@ -399,7 +399,8 @@
 
         <div class="section-title">
           <h2>PORTAFOLIO</h2>
-          <p>Mi portafolio de servicios y mi galeria de todo mi recorrido desde terapias grupales y individuales hasta toda mi travesía para llegar ayudarte</p>
+          <p>Mi portafolio de servicios y mi galería de todo mi recorrido desde terapias 
+            grupales e individuales hasta toda mi travesía para llegar ayudarte.</p>
         </div>
 
         <div class="row">
@@ -427,7 +428,7 @@
 
         <div class="section-title">
           <h2>Podemos sanar Emociones</h2>
-          <p>Al traer a la consciencia la fuente de las emociones y permitir una exploración profunda, las constelaciones pueden ayudar a liberar emociones reprimidas y permitir una resolución emocional. Al comprender la dinámica detrás de las emociones y aprender a aceptarlas y perdonarse a sí mismo y a los demás, se puede reducir la intensidad y frecuencia de las emociones negativas.</p>
+          <p class="text-justify">Al traer a la consciencia la fuente de las emociones y permitir una exploración profunda, las constelaciones pueden ayudar a liberar emociones reprimidas y permitir una resolución emocional. Al comprender la dinámica detrás de las emociones y aprender a aceptarlas y perdonarse a sí mismo y a los demás, se puede reducir la intensidad y frecuencia de las emociones negativas.</p>
         </div>
 
         <div class="row">
@@ -509,13 +510,13 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="box">
-              <h3>Terapia Individal Virtual</h3>
+              <h3>Terapia Individual Virtual</h3>
               <h4><sup>€</sup>20<span> / Euros</span></h4>
               <ul>
-                <li>Las Primeras 2 Seciones</li>
-                <li>Despues</li>
+                <li>Las Primeras 2 Sesiones</li>
+                <li>Después</li>
                 <h4><sup>€</sup>30<span> / Euros</span></h4>
-                <li>Cada Secion</li>
+                <li>Cada Sesión</li>
                
               </ul>
               <div class="btn-wrap">
@@ -527,13 +528,13 @@
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
             <div class="box recommended">
-            <h3>Terapia De Constelacion Personal individual</h3>
+            <h3>Terapia De Constelación Personal individual</h3>
               <h4><sup>€</sup>20<span> / Euros</span></h4>
               <ul>
-                <li>Las Primeras 2 Seciones</li>
-                <li>Despues</li>
+                <li>Las Primeras 2 Sesiones</li>
+                <li>Después</li>
                 <h4><sup>€</sup>30<span> / Euros</span></h4>
-                <li>Cada Secion</li>
+                <li>Cada Sesión</li>
                 
               </ul>
               <div class="btn-wrap">
@@ -548,14 +549,14 @@
               <h4><sup>€</sup>40<span> / Euros</span></h4>
               <ul>
                 <li>Las Primeras 2 Seciones</li>
-                <li>Despues</li>
+                <li>Después</li>
                 <h4><sup>€</sup>60<span> / Euros</span></h4>
                 <li>Personalizada</li>
-                <li>Nota: Solo se constelara a una persona por cada terapia grupal, Los acompañantes deberan
-                  participar de apoyo ala persona que va a constelar si asi lo desean y deberan pagar un aporte de
+                <li>Nota: Solo se constelará a una persona por cada terapia grupal, Los acompañantes deberán 
+                  participar de apoyo ala persona que va a constelar si así lo desean y deberán pagar un aporte de
                 </li>
                 <h4><sup>€</sup>10<span> / Euros</span></h4>
-                <li>Por ser participe de esta terapia en donde en donde podran sanar tambien.</li>
+                <li>Por ser partícipe de esta terapia en donde podrán sanar también.</li>
                 
               </ul>
               <div class="btn-wrap">
@@ -615,7 +616,7 @@
 
         <div class="section-title">
           <h2>Preguntas Frecuentes</h2>
-          <p>Los Usuarios Preguntan :</p>
+          <p>Los Usuarios Preguntan:</p>
         </div>
 
         <div class="faq-list">
@@ -623,7 +624,7 @@
             <li data-aos="fade-up">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">¿Cómo es una sesión individual de constelaciones? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                <p>
+                <p class="text-justify">
                 Durante la sesión, el terapeuta invitará al cliente a describir un problema, situación o relación específica que desea explorar. A continuación, el terapeuta puede pedir al cliente que elija personas, objetos o símbolos de la sala para representar a las personas o elementos clave relacionados con el problema. El cliente puede seleccionar a los representantes y colocarlos en el espacio de la sala según su percepción.
                 </p>
               </div>
@@ -632,7 +633,7 @@
             <li data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">¿Cuántas personas participan en la sesión grupal/taller? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                <p>
+                <p class="text-justify">
                 El número de personas que participan en una sesión grupal o taller de constelaciones familiares puede variar dependiendo del organizador y del espacio disponible. Por lo general, las sesiones grupales pueden tener entre 10 y 20 participantes, aunque algunas sesiones pueden tener un número mayor o menor de personas.
 
 Es importante tener en cuenta que en las sesiones de constelaciones familiares, el enfoque no está en el número de personas que participan, sino en el proceso de trabajo en sí mismo. La dinámica de grupo es una parte integral del proceso, y el facilitador de la constelación puede adaptar la dinámica del grupo y el trabajo a las necesidades y objetivos específicos de los participantes.
@@ -643,7 +644,7 @@ Es importante tener en cuenta que en las sesiones de constelaciones familiares, 
             <li data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">¿Cuál es la diferencia entre una sesión individual y la sesión grupal / taller? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                <p>
+                <p class="text-justify">
                 En resumen, una sesión individual en constelación familiar se enfoca en el cliente individual, mientras que una sesión grupal o taller permite a los clientes trabajar en sus problemas en un entorno de grupo. Ambas opciones pueden ser efectivas para explorar y resolver problemas personales y dinámicas familiares.
                 </p>
               </div>
@@ -652,9 +653,9 @@ Es importante tener en cuenta que en las sesiones de constelaciones familiares, 
             <li data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">¿Debo participar con mi familia? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                <p>
+                <p class="text-justify">
                 No. Los demás miembros de tu familia no participan en la sesión; participas solo/a. 
-Haces la sesión con tu pareja si deseas trabajar un tema que involucra tus hijos menores de edad o si el tema a trabajar es el deseo de tener hijos
+Haces la sesión con tu pareja si deseas trabajar un tema que involucra tus hijos menores de edad o si el tema a trabajar es el deseo de tener hijos.
                 </p>
               </div>
             </li>
@@ -662,7 +663,7 @@ Haces la sesión con tu pareja si deseas trabajar un tema que involucra tus hijo
             <li data-aos="fade-up" data-aos-delay="400">
               <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">¿Alguien cercano a mí se encuentra en un mal momento, puedo constelar por él/ella? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                <p>
+                <p class="text-justify">
                 No. Cada persona adulta debe hacerse cargo de su tema/problema. No es posible resolver el problema para otra persona. Lo que podrías trabajar tú es lo que te pasa a ti con el problema de la otra persona. Por ejemplo: No puedes constelar la adicción de tu hermano. Si podrías constelar tu sufrimiento/problema que te produce la adicción de tu hermano.
 Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar los problemas/temas de los hijos menores de edad sin que estos hijos tienen que estar presentes. Por ejemplo: La enfermedad de un niño de 12 años puede ser constelados por sus padres.​
                 </p>
@@ -713,7 +714,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
 
         <div class="section-title">
           <h2>Contacto</h2>
-          <p>Si tienes alguna duda, comentario o sugerencia, puedes contactarnos y nos comunicaremos contigo lo antes posible contigo.</p>
+          <p>Si tienes alguna duda, comentario o sugerencia, puedes contactarnos y nos comunicaremos contigo lo antes posible.</p>
         </div>
 
         <div class="row contact-info">
@@ -729,7 +730,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
-              <h3>Numero Telefonico</h3>
+              <h3>Número Telefónico</h3>
               <p><a href="tel:+155895548855">+34 645 5582 05</a></p>
             </div>
           </div>
@@ -786,7 +787,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
               <p>
                 Valencia <br>
                 España<br><br>
-                <strong>Telefono:</strong> +34 645 5582 05<br>
+                <strong>Teléfono:</strong> +34 645 5582 05<br>
                 <strong>Email:</strong> lizayahuasca3@gmail.com<br>
               </p>
               <div class="social-links mt-3">
@@ -800,13 +801,13 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Hipervinculos</h4>
+            <h4>Hipervínculos</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Inicio</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">¿Quién Soy?</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Servicios</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terminos y Condiciones</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Politica de privacudad</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Términos y Condiciones</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Política de privacidad</a></li>
             </ul>
           </div>
 
