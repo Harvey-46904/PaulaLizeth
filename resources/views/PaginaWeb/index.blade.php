@@ -441,7 +441,7 @@
                   <h4 class="pb-2 text-success">Abandono</h4>
                   <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escríbeme</a>
                   </div>
                 </div>
               </div>
@@ -456,7 +456,7 @@
                   <h4 class="pb-2 text-success">Ira</h4>
                   <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escríbeme</a>
                   </div>
                 </div>
               </div>
@@ -470,7 +470,7 @@
                   <h4 class="pb-2 text-success">Enojo</h4>
                   <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escríbeme</a>
                   </div>
                 </div>
               </div>
@@ -484,7 +484,7 @@
                   <h4 class="pb-2 text-success">Tristeza</h4>
                   <span>Te puedo ayudar</span>
                   <div class="social">
-                    <a href=""><i class='bx bxl-whatsapp'></i> Escribeme</a>
+                    <a href=""><i class='bx bxl-whatsapp'></i> Escríbeme</a>
                   </div>
                 </div>
               </div>
