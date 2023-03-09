@@ -503,7 +503,7 @@
 
         <div class="section-title">
           <h2>Precios</h2>
-          <p>Terapias Segun Su Procedimiento.</p>
+          <p>Terapias Según Su Procedimiento..</p>
         </div>
 
         <div class="row">
@@ -553,7 +553,7 @@
                 <h4><sup>€</sup>60<span> / Euros</span></h4>
                 <li>Personalizada</li>
                 <li>Nota: Solo se constelará a una persona por cada terapia grupal, Los acompañantes deberán 
-                  participar de apoyo ala persona que va a constelar si así lo desean y deberán pagar un aporte de
+                  participar de apoyo a la persona que va a constelar si así lo desean y deberán pagar un aporte de
                 </li>
                 <h4><sup>€</sup>10<span> / Euros</span></h4>
                 <li>Por ser partícipe de esta terapia en donde podrán sanar también.</li>
