@@ -680,7 +680,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
     <h2>Comentarios</h2>
     <div class="row justify-content-center" >
     <div class="col-md-10">
-        <div id="disqus_thread"></div>
+    <div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -693,7 +693,7 @@ Es distinto en el caso de los hijos menores de edad. Los padres pueden constelar
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://paulacomentario.disqus.com/embed.js';
+    s.src = 'https://comentarios-5arnkhnfgm.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();
